@@ -10,7 +10,6 @@ homepage: "https://github.com/janestreet/ocaml-compiler-libs"
 bug-reports: "https://github.com/janestreet/ocaml-compiler-libs/issues"
 depends: [
   "dune" {>= "2.8"}
-  "base-flambda2"
   "odoc" {with-doc}
 ]
 build: [
